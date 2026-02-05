@@ -43,8 +43,6 @@ On-site · Hybrid · Remote
   <img src="profile-summary-card-output/buefy/1-repos-per-language.svg" height="170" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastiankaizer&theme=tokyo-night&area=true&hide_border=true" width="850" />
-
 </div>
 
 ---
