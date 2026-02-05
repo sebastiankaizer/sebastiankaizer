@@ -31,10 +31,16 @@ On-site · Hybrid · Remote
 
 <div align="center">
 
+<img src="profile-summary-card-output/buefy/0-profile-details.svg" />
+
+<br/>
+
 <p align="center">
-  <img src="profile-summary-cards/profile-details.svg" height="180" />
-  &nbsp;&nbsp;
-  <img src="profile-summary-cards/most-commit-language.svg" height="180" />
+  <img src="profile-summary-card-output/buefy/3-stats.svg" height="170" />
+  &nbsp;
+  <img src="profile-summary-card-output/buefy/2-most-commit-language.svg" height="170" />
+  &nbsp;
+  <img src="profile-summary-card-output/buefy/1-repos-per-language.svg" height="170" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastiankaizer&theme=tokyo-night&area=true&hide_border=true" width="850" />
