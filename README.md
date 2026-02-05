@@ -14,10 +14,7 @@ _"Disinilah aku berkreasi dan tidak akan menyerah"_
 
 ## 🔎 Open to Opportunities
 
-**Backend Engineer (Intermediate)**  
-**Frontend Engineer (Entry-Level)**  
-
-<div align="center">
+**Backend Engineer (Intermediate)** **Frontend Engineer (Entry-Level)** <div align="center">
 
 <strong>Positioning Note</strong>
 
@@ -35,9 +32,9 @@ On-site · Hybrid · Remote
 <div align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastiankaizer&theme=tokyonight" height="180" />
+  <img src="profile-summary-cards/profile-details.svg" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sebastiankaizer&theme=tokyonight" height="180" />
+  <img src="profile-summary-cards/most-commit-language.svg" height="180" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastiankaizer&theme=tokyo-night&area=true&hide_border=true" width="850" />
