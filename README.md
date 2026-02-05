@@ -4,26 +4,12 @@
 
 ## Software Developer  
 **Backend (Intermediate) · Frontend (Entry-Level)**
+Note : I am not positioning myself as a Fullstack Engineer. I prefer working with clear role boundaries while collaborating closely across teams.
 
 Informatics fresh graduate with hands-on experience building backend systems and modern frontend interfaces.  
 Backend-focused, with growing frontend expertise and a strong sense of UI design.
 
 _"Disinilah aku berkreasi dan tidak akan menyerah"_
-
----
-
-## 🔎 Open to Opportunities
-
-**Backend Engineer (Intermediate)** **Frontend Engineer (Entry-Level)** <div align="center">
-
-<strong>Positioning Note</strong>
-
-I am not positioning myself as a Fullstack Engineer.  
-I prefer working with clear role boundaries while collaborating closely across teams.
-
-</div>
-
-On-site · Hybrid · Remote
 
 ---
 
