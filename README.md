@@ -94,7 +94,7 @@ _"Disinilah aku berkreasi dan tidak akan menyerah"_
   </tr>
   <tr>
     <td>Sat Brimob App</td>
-    <td>Mobile operations UI</td>
+    <td>Police Brimob Android App</td>
     <td>Flutter</td>
   </tr>
   <tr>
