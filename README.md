@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kevin+Edgard+Halim;Backend+Developer+(Intermediate)+%7C+Frontend+(Entry-Level);Golang+%7C+Node.js+%7C+React" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=820&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kevin;Full+Stack+Developer;Building+Modern+Applications;Laravel+%7C+Golang+%7C+Node.js+%7C+React" />
 
 ## Software Developer  
 **Backend (Intermediate) · Frontend (Entry-Level)**
